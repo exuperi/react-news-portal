@@ -1,1 +1,1 @@
-# react-news-portal
+# News portal in React
