@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "author": "Andrew Chinasky",
+      "text": "Who is Gauff, the 15-year-old who beat Venus Williams?",
+      "bigText":
+        "Qualifier Cori \"Coco\" Gauff has the ability to reach the top of women's tennis, former champions say."
+    },
+    {
+      "id": 2,
+      "author": "Vitaly Clochkovski",
+      "text": "Tyler Skaggs: Los Angeles Angels pitcher dies aged 27",
+      "bigText": "The Los Angeles Angels baseball team has confirmed the death of pitcher Tyler Skaggs. He was 27 years old."
+    },
+    {
+      "id": 3,
+      "author": "Eric Bayron",
+      "text": "Trump in the UK: Who is Donald Trump's daughter Tiffany?",
+      "bigText": "US President Donald Trump is on a state visit to the UK at the moment, and he's not travelled light."
+    },
+    {
+      "id": 4,
+      "author": "William Petterville",
+      "text": "The high-tech farming revolution",
+      "bigText":
+        "Will robots make better farmers than humans? Algorithms, drones and robots can make farming a lot friendlier to the environment."
+    }
+  ]
